@@ -31,6 +31,13 @@ export const projects = [
     image: "projects/Devlovers.png",
     description: "Real time chat rooms for devlopers to collaborate",
   },
+  {
+    title: "Yoom",
+    url: "https://yoom.vercel.app",
+    image: "projects/Yoom.png",
+    description: "Real time video meeting app",
+  },
+
   
 ];
 
